@@ -1,0 +1,33 @@
+/* mediaqueries.css */
+
+/* Tablets em modo retrato e paisagem */
+@media only screen and (min-width: 600px) and (max-width: 1200px) {
+    #container{
+        width: 500px;
+        margin: auto;
+    }
+    
+    #container1{
+        width: 500px;
+        margin: auto;
+    }
+    
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1600px) {
+
+    #container{
+        width: 500px;
+        margin: auto;
+    }
+    
+    #container1{
+        width: 500px;
+        margin: auto;
+    }
+        #aviso{
+            width: 1000px;
+            margin: auto;
+        }
+  }
+  
